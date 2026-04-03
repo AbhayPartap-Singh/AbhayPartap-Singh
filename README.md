@@ -42,14 +42,6 @@ Web development, UI/UX, or starting your coding journey from zero
 ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)
 
 ---
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AbhayPartap-Singh&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=AbhayPartap-Singh&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhayPartap-Singh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-
 ## 🧠 Developer Philosophy:
 > *“I build. I fail. I improve. I repeat ... until the idea becomes reality.”*
 
