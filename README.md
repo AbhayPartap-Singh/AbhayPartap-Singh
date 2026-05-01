@@ -16,10 +16,7 @@ Clean UI, functional backend, and a mindset of **shipping real projects  not jus
 Web development, UI/UX, or starting your coding journey from zero  
 
 
----
 
-## 🌐 Connect With Me:
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:partapabhaysingh83@gmail.com)
 
 ---
 
