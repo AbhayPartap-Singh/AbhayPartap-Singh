@@ -1,19 +1,4 @@
-# 💫 About Me:
-I’m a selfdriven developer turning ideas into realworld web applications ⚡  
-Started from basics  now building, learning, and improving every single day  
-
-🔭 Currently focused on:
-Building **scalable fullstack applications** and mastering **problem solving & system thinking**  
-🤝 Open to collaborate on:
-MERN stack projects, realtime apps, and anything that challenges me to grow  
-🧠 Currently learning:
-Deep diving into **JavaScript**, **React**, **Node.js**, and building realtime systems using **Socket.IO**  
-🚀 Exploring:
-**System Design**, **Backend Architecture**, and how to scale apps like production level products  
-💼 What I bring:
-Clean UI, functional backend, and a mindset of **shipping real projects  not just tutorials**  
-💬 Ask me about:
-Web development, UI/UX, or starting your coding journey from zero  
+Full-stack developer building real-world web applications. 
 
 
 
